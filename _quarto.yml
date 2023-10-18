@@ -1,0 +1,21 @@
+project:
+  type: website 
+  output-dir: docs
+  
+website:
+  title: "Javier's World"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me 
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+
+editor: visual
+
