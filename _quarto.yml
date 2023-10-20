@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About Me 
-      -href: NM2207.qmd
+      - href: NM2207.qmd
         text: NM2207 Final Project
 format:
   html:
