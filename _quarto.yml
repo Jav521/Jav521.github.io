@@ -14,7 +14,7 @@ website:
         text: NM2207 Final Project
 format:
   html:
-    theme: superhero
+    theme: united
     css: styles.css
     toc: true
 
