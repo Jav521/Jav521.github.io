@@ -4,9 +4,9 @@ title: "NM2207 Final Project"
 
 **Taylor Swift: A Data Story (not a love story)**
 
-Taylor Swift has largely been a very successful artist, even in the modern day. In August 2023, Taylor Swift was the first female artist to reach 100 million monthly listeners. In fact, Swift has a \$740 million net worth as of June 2023 (according to Forbes).
+Taylor Swift has largely been a very successful artist, even in the modern day. In August 2023, Taylor Swift was the first female artist to reach 100 million monthly listeners. In fact, Swift has a whopping $740 million net worth as of June 2023 (according to Forbes).
 
-What makes her music so popular? Analysing the statistics of Swift's music will help other musicians to figure out the ingredients in her music to cook up hits just like her. Maybe even you, following her recipe, will be able to catapult yourself to stardom!
+What makes her music so popular? And how has her music changed and evolved over time? Analysing the statistics of Swift's music will help other musicians to figure out the ingredients in her music to cook up hits just like her. Maybe even you, following her recipe, will be able to catapult yourself to stardom! 
 
 I. Shake if off, Shake it off!
 
@@ -29,7 +29,7 @@ II. She's cheer captain (and I'm on the bleachers)
 Did you know, Taylor Swift has had less concert tours than her number of ex-boyfriends? That being said, she did hold many many performances throughout the world. Ever wondered if Taylor Swift had more acoustic or live tracks at any point in time? This graph will help us to see more.
 
 Insert graph of acousticness/liveness against track_release
-<iframe height="1500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_CheerCaptain/"> </iframe>
+<iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_CheerCaptain/"> </iframe>
 
 III. Give me the keys
 
