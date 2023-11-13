@@ -6,9 +6,9 @@ title: "NM2207 Final Project"
 
 Taylor Swift has largely been a very successful artist, even in the modern day. In August 2023, Taylor Swift was the first female artist to reach 100 million monthly listeners. In fact, Swift has a whopping \$740 million net worth as of June 2023 (according to Forbes).
 
-What makes her music so popular? And how has her music changed and evolved over time? Analysing the statistics of Swift's music will help other musicians to figure out the ingredients in her music to cook up hits just like her. Maybe even you, following her recipe, will be able to catapult yourself to stardom!
+What makes her music so popular? And how has her music changed and evolved over time? Analysing the statistics of Swift's music, from this data collected from 274 of her tracks, will help other musicians to figure out the ingredients in her music to cook up hits just like her. Maybe even you, following her recipe, will be able to catapult yourself to stardom!
 
-I. Shake if off, Shake it off!
+**I. Shake if off, Shake it off!**
 
 How energetic is Taylor Swift's music?
 
@@ -18,18 +18,36 @@ To find out, I plotted a graph of the following variables: Danceability, energy 
 
 Insert graph of danceability, energy and tempo against release_date <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/TaylorSongs/"> </iframe>
 
+Did you know? Taylor Swift's most danceable song is "I Think He Knows", released in August 2019 with a danceability score of 0.897!
+
+Whereas, her least danceable song is The Archer, with a Spotify danceability score of 0.292. Guess she didn't quite hit the mark on that one...
+
+**II. Danceability: Let's break it down!**
+
 Hmm, but you may ask, what makes a song more danceable? Well, I did wonder too, so I decided to find out more about how danceability varied against energy, tempo, and loudness.
 
-Insert graph of danceability against energy, tempo, loudness <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Hello_Taylor/"> </iframe>
+Insert graph of danceability against energy, tempo, loudness <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_CheerCaptain/"> </iframe>
 
-II. She's cheer captain (and I'm on the bleachers)
+**III. She's cheer captain (and I'm on the bleachers)**
 
 Did you know, Taylor Swift has had less concert tours than her number of ex-boyfriends? That being said, she did hold several performances throughout the world: 213 as of June 2023. Ever wondered if Taylor Swift had more acoustic or live tracks at any point in time? This graph will help us to see more.
 
-Insert graph of acousticness/liveness against track_release <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_CheerCaptain/"> </iframe>
+Insert graph of acousticness/liveness against track_release
 
-III. Give me the keys
+iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Hello_Taylor/"\> </iframe>
+
+**IV. Give me the keys**
 
 Let's find out what Taylor Swift's favourite key signature is!
 
 Insert Graph of key_mode against track_name <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_Key/"> </iframe>
+
+-   Taylor's top 3 favourite keys are: G Major (n=50), C Major (n=41), F Major (n=30).
+
+-   She had 11 songs with no clear key.
+
+-   She had no songs in A# Minor, D Minor, F# Minor, G# Minor. That's a minor inconvenience!
+
+**Conclusion**
+
+At the start, I started this project to figure out what was Taylor Swift's recipe for success. But looking at the data, one thing is clear. Swift did not get successful with any particular recipe, but she created many diverse songs with different tempos, keys, and moods, in her own single signature style and voice that has never changed throughout the years. So to all you budding musicians, perhaps it isn't so important what key you use, whether you use acoustic instruments or whether you have a certain tempo, but rather, about having your individual style and sticking to it!
