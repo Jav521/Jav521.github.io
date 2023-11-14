@@ -22,13 +22,7 @@ Did you know? Taylor Swift's most danceable song is "I Think He Knows", released
 
 Whereas, her least danceable song is The Archer, with a Spotify danceability score of 0.292. Guess she didn't quite hit the mark on that one...
 
-**II. Danceability: Let's break it down!**
-
-Hmm, but you may ask, what makes a song more danceable? Well, I did wonder too, so I decided to find out more about how danceability varied against energy, tempo, and loudness.
-
-Insert graph of danceability against energy, tempo, loudness <iframe height="500" width="100%" frameborder="no" src="https://jav521.shinyapps.io/Taylor_CheerCaptain/"> </iframe>
-
-**III. Frequency Profiles: So it's gonna be forever? (Or it's gonna go down in flames)**
+**II. Frequency Profiles: So it's gonna be forever? (Or it's gonna go down in flames)**
 
 Let's use a histogram to find out what Taylor Swift's music is like!
 
@@ -44,13 +38,7 @@ Ironically, a lot of her songs are not acoustic either. Although she does have a
 
 Her overall instrumentalness is also quite low, with a mean instrumentalness of 0.00366. This goes to show that vocals make up a huge part of her music, and she isn't afraid to show off her vocal prowess!
 
-**IV. She's cheer captain (and I'm on the bleachers)**
-
-Did you know, Taylor Swift has had less concert tours than her number of ex-boyfriends? That being said, she did hold several performances throughout the world: 213 as of June 2023. Ever wondered if Taylor Swift had more acoustic or live tracks at any point in time? This graph will help us to see more.
-
-Insert graph of acousticness/liveness against track_release
-
-**V. Give me the keys**
+**III. Give me the keys**
 
 Let's find out what Taylor Swift's favourite key signature is!
 
