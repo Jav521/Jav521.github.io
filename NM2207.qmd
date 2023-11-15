@@ -24,6 +24,8 @@ Whereas, her least danceable song is The Archer, with a Spotify danceability sco
 
 Her songs are on the average danceability and energy side, with means of 0.598 and 0.577 respectively. However, her songs are generally quite fast and upbeat with a tempo of 125BPM. Perhaps the fast tempo of her songs contribute to their "catchiness", increasing their popularity throughout the world!
 
+Nevertheless, there seems to be no clear trend for danceability, energy and tempo as time passes.
+
 **II. Frequency Profiles: So it's gonna be forever? (Or it's gonna go down in flames)**
 
 Let's use a histogram to find out what Taylor Swift's music is like!
@@ -36,7 +38,7 @@ As you can see, Taylor Swift has had a diverse number of tracks, all with varyin
 
 However, there are some statistics in which she scores particularly lower/higher on, for example, speechiness, which determines the presence of spoken words in a track. Taylor Swift had a relatively low speechiness score, with a mean of 0.0533. Perhaps, one of the reasons why Swift is so successful is her ability to create songs that mostly contain intricate melodies, rather than using speech or spoken words to embellish her songs.
 
-Ironically, a lot of her songs are not acoustic either. Although she does have a few acoustic versions of her songs, she has many songs that score low in the acoustic department, with a mean acousticness score of 0.300. Maybe her use of electric and digital instruments in appropriate scenarios could be what sets her apart from other singer-songwriters. Taylor Swift also did not have many live recorded tracks, showing how most of her tracks are meticulously prerecorded, with a mean liveness score of 0.141.
+Ironically, a lot of her songs are not acoustic either, despite her reputation as an indie musician. Although she does have a few acoustic versions of her songs, she has many songs that score low in the acoustic department, with a mean acousticness score of 0.300. Maybe her use of electric and digital instruments in appropriate scenarios could be what sets her apart from other singer-songwriters. Taylor Swift also did not have many live recorded tracks, showing how most of her tracks are meticulously prerecorded, with a mean liveness score of 0.141.
 
 Her overall instrumentalness is also quite low, with a mean instrumentalness of 0.00366. This goes to show that vocals make up a huge part of her music, and she isn't afraid to show off her vocal prowess!
 
