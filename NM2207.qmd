@@ -52,10 +52,12 @@ Insert Graph of key_mode against track_name <iframe height="500" width="100%" fr
 
 -   She had 11 songs with no clear key.
 
+-   She had 239 songs in major keys, but only 24 songs in minor key. The major key usually sounds happier than the minor key, which may be a common trait that makes Taylor Swift's music so endearing.
+
 -   She had no songs in A# Minor, D Minor, F# Minor, G# Minor. That's a minor inconvenience!
 
 **Conclusion**
 
 At the start, I started this project to figure out what was Taylor Swift's recipe for success. But looking at the data, one thing is clear. Swift did not get successful with any particular recipe, but she created many diverse songs with different tempos, keys, and moods, in her own single signature style and voice that has never changed throughout the years. So to all you budding musicians, perhaps it isn't so important what key you use, whether you use acoustic instruments or whether you have a certain tempo, but rather, about having your individual style and sticking to it!
 
-That being said, for those who want to follow in Taylor Swift's footsteps, there are a few things that you can do. Start by making more melodies within your music and less speech, use more electronic instruments rather than acoustic ones, and keep honing your vocal skills to make more use of them rather than instrumentation!
+That being said, for those who want to follow in Taylor Swift's footsteps, there are a few things that you can do. Start by making more melodies within your music and less speech, use more electronic instruments rather than acoustic ones, use more major key instead of minor key, and keep honing your vocal skills to make more use of them rather than instrumentation!
